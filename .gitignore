@@ -1,0 +1,14 @@
+
+/shop/shop/data
+/shop_admin/shop_admin/data
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen 
+
+a.php
